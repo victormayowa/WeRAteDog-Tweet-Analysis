@@ -1,4 +1,4 @@
-# WeRateDogs Tweet Analysis
+# Canine Crunch: Data Analysis of WeRateDogs Twitterverse
 
 ## Overview
 
