@@ -59,5 +59,3 @@ The analysis reveals interesting trends in WeRateDogs tweets, including popular 
 Feel free to explore the project files and reports to gain a comprehensive understanding of the WeRateDogs tweet analysis.
 
 ---
-
-Adjust the content based on the specific details of your project, and feel free to add or modify sections to provide more information.
